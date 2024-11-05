@@ -3,9 +3,9 @@ This is a simple RESTful API built using Express.js to manage a collection of jo
 
 Installation:
 
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone (https://github.com/jbolan12/DIY-API-)
 
-Navigate to the project directory: cd <project-directory>
+Navigate to the project directory: cd 'project-directory'
 
 Install the dependencies: npm install
 

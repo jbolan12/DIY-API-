@@ -1,11 +1,9 @@
-# DIY-API-
-
 Jokes API
 This is a simple RESTful API built using Express.js to manage a collection of jokes.
 
 Installation:
 
-Clone the repository: git clone (https://github.com/jbolan12/DIY-API-)
+Clone the repository: git clone <repository-url>
 
 Navigate to the project directory: cd <project-directory>
 
